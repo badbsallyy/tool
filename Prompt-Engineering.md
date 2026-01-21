@@ -1,46 +1,6 @@
-# Prompt
-
-# Engineering
-
-**Author: Lee Boonstra**
-
-
-**Acknowledgements**
-
-**Reviewers and Contributors**
-
-Michael Sherman
-
-Yuan Cao
-
-Erick Armbrust
-
-Anant Nawalgaria
-
-Antonio Gulli
-
-Simone Cammel
-
-**Curators and Editors**
-
-Antonio Gulli
-
-Anant Nawalgaria
-
-Grace Mollison
-
-**Technical Writer**
-
-Joey Haymaker
-
-**Designer**
-
-Michael Lanning
-
+# Prompt Engineering
 
 ## Table of contents
-
-
 
 - Introduction
 - Prompt engineering
